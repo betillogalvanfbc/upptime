@@ -12,7 +12,7 @@ sites:
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
  
- assignees:
+assignees:
   - betillogalvanfbc
 
 status-website:
