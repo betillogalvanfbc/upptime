@@ -5,14 +5,12 @@ repo: upptime
 sites:
   - name: Google
     url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+ - name: Google
+    url: https://www.google.com
+  - name: DuckDuckGo
+    url: https://duckduckgoxsadslodda.com
  
-assignees:
+assignees: # Users to assign downtime issues (optional)
   - betillogalvanfbc
 
 status-website:
